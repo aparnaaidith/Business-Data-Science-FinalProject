@@ -9,7 +9,7 @@ Since getting funded on Kickstarter requires meeting or exceeding the project's 
 
 Recently, Kickstarter released its public data repository to allow students and researchers like us to help them solve a problem. The datasets which we are planning to use is from Google data set as well as by scraping the Kickstarter website.
 
-## What are we planning to do ?
+## What made us do this ?
 
 We have determined that our challenge question will investigate factors of success for a Kickstarter project as follows: 
 “How do KickStarter project variables impact the probability of successful funding?” 
