@@ -19,3 +19,6 @@ This insight will culminate in a prediction model for a hypothetical project. Th
 * Tier 1: Identify relationship between project category and successful funding on Kickstarter 
 * Tier 2: Stratify by project category and identify predictors of success for each 
 * Tier 3: Build a predictive model to determine probability of funding success given hypothetical variables (potential extension of predicting probability of cancelation after successful funding)
+
+
+This project was done as a submission for our final project for Business Data Science course in Maters in IT & Management at McCombs School of Business - University of Texas as Austin. It was a team effort with other 3 members - Abraham George , Hani Noueilaty and Lovekesh Bansal.
